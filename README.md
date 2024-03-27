@@ -1,5 +1,3 @@
-![]([https://komarev.com/ghpvc/?username=swagviper&color=dc143c](https://komarev.com/ghpvc/?username=swagviper&style=for-the-badge))
-
 <div>
 <h1 align="center">👋 Hi, I’m @swagviper </h1>
 <h3 align="center">I’m interested in Java</h3>
