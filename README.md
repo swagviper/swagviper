@@ -2,8 +2,6 @@
 <h1 align="center">👋 Hi, I’m @swagviper </h1>
 <h3 align="center">I’m interested in Java</h3>
 
-<p align="center">🔥 CEO at <strong>VoxelMines</strong> (https://discord.gg/voxelmines)</p>
-<p align="center">☕ Learning <strong>Java</strong></p>
 </div>
 <div align="center">
 <h2>🚀 Skills</h2>
