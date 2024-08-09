@@ -1,21 +1,24 @@
-<div>
-<h1 align="center">👋 Hi, I’m @swagviper </h1>
-<h3 align="center">I’m interested in Java</h3>
+<h2 align="left">👋 Hi, I’m @swagviper</h2>
 
-</div>
-<div align="center">
-<h2>🚀 Skills</h2>
- <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java"/></code>
+###
+
+<img align="right" height="150" src="https://imgur.com/4lVHIzm.png"  />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
 </div>
 
+###
 
-<div align="center">
- <h2 align="center">👻 Contacts</h2>
-<div class="mail">
- <a href="mailto:bieelgod6212@gmail.com">
- <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<div align="left">
+  <a href="https://discord.com/users/470325680832249866" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="mailto:bieelgod6212@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
 </div>
-<div class="discord">
- <a href="https://discord.com/users/470325680832249866">
- <img src="https://img.shields.io/badge/Discord-282B30?style=for-the-badge&logo=discord&logoColor=white"/>
-</div>
+
+###
