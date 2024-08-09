@@ -32,6 +32,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/swagviper/swagviper/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/swagviper/swagviper/output/snake.svg"/>
 
 ###
