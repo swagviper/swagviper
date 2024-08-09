@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://imgur.com/4lVHIzm.png"  />
+<img align="right" height="150" src="https://imgur.com/7aKA1OC.png"  />
 
 ###
 
@@ -30,8 +30,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/swagviper/swagviper/output/snake.svg"/>
+<img src="https://raw.githubusercontent.com/swagviper/swagviper/output/snake.svg" alt="Snake animation" />
 
 ###
