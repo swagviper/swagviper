@@ -45,4 +45,3 @@
 ###
 
 <img align="right" height="150" src="https://imgur.com/7aKA1OC.png"  />
-###
