@@ -44,4 +44,6 @@
 
 ###
 
-<img align="center" height="150" src="https://imgur.com/7aKA1OC.png"  />
+<div align="center">
+  <img height="150" src="https://imgur.com/7aKA1OC.png"  />
+</div>
