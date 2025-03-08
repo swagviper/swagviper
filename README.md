@@ -4,7 +4,7 @@
 
 <p align="center">I'm an 18-year-old programmer passionate about coding and building cool projects. I have experience in Java and currently diving deeper into Spring Boot to enhance my backend development skills. I also have hands-on experience with frontend technologies like HTML and CSS, as well as database management using MySQL and PostgreSQL. Additionally, I’m familiar with version control systems like Git and GitHub, which help me collaborate and manage my projects efficiently. I’m always eager to learn new technologies and improve my skills. Feel free to explore my repositories and reach out if you’d like to collaborate or chat about programming!</p>
 
-###
+### Tech stack
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
@@ -24,7 +24,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
 </div>
 
-###
+### Connect with me
 
 <div align="left">
   <a href="https://discord.com/users/470325680832249866" target="_blank">
@@ -35,7 +35,7 @@
   </a>
 </div>
 
-###
+### GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=swagviper&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
